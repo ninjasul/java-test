@@ -1,4 +1,4 @@
-package test.collections.blockingqueue;
+package collections.blockingqueue;
 
 import java.util.concurrent.SynchronousQueue;
 

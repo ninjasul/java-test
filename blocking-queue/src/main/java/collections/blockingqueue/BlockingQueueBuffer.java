@@ -1,4 +1,4 @@
-package test.collections.blockingqueue;
+package collections.blockingqueue;
 
 public interface BlockingQueueBuffer<T> {
     void get();

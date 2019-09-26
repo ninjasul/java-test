@@ -1,9 +1,9 @@
-package test.collections.test;
+package collections.blockingqueue.test;
 
-import test.collections.blockingqueue.BlockingQueueBuffer;
-import test.collections.blockingqueue.Consumer;
-import test.collections.blockingqueue.LinkedBlockingQueueBuffer;
-import test.collections.blockingqueue.Producer;
+import collections.blockingqueue.BlockingQueueBuffer;
+import collections.blockingqueue.Consumer;
+import collections.blockingqueue.LinkedBlockingQueueBuffer;
+import collections.blockingqueue.Producer;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

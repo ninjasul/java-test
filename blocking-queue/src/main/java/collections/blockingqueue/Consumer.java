@@ -1,4 +1,4 @@
-package test.collections.blockingqueue;
+package collections.blockingqueue;
 
 public class Consumer implements Runnable {
     private final BlockingQueueBuffer buffer;
